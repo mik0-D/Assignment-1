@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\bin\Debug\net6.0\Occurenceofstring.exe
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\bin\Debug\net6.0\Occurenceofstring.deps.json
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\bin\Debug\net6.0\Occurenceofstring.runtimeconfig.json
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\bin\Debug\net6.0\Occurenceofstring.dll
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\bin\Debug\net6.0\ref\Occurenceofstring.dll
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\bin\Debug\net6.0\Occurenceofstring.pdb
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\Occurenceofstring.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\Occurenceofstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\Occurenceofstring.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\Occurenceofstring.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\Occurenceofstring.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\Occurenceofstring.dll
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\ref\Occurenceofstring.dll
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\Occurenceofstring.pdb
+C:\Users\Morning Star\Desktop\MikoD\Occurenceofstring\obj\Debug\net6.0\Occurenceofstring.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\bin\Debug\net6.0\Reversestring.exe
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\bin\Debug\net6.0\Reversestring.deps.json
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\bin\Debug\net6.0\Reversestring.runtimeconfig.json
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\bin\Debug\net6.0\Reversestring.dll
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\bin\Debug\net6.0\ref\Reversestring.dll
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\bin\Debug\net6.0\Reversestring.pdb
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\Reversestring.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\Reversestring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\Reversestring.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\Reversestring.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\Reversestring.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\Reversestring.dll
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\ref\Reversestring.dll
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\Reversestring.pdb
+C:\Users\Morning Star\Desktop\MikoD\Reversestring\obj\Debug\net6.0\Reversestring.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\bin\Debug\net6.0\AnglebnHM.exe
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\bin\Debug\net6.0\AnglebnHM.deps.json
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\bin\Debug\net6.0\AnglebnHM.runtimeconfig.json
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\bin\Debug\net6.0\AnglebnHM.dll
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\bin\Debug\net6.0\ref\AnglebnHM.dll
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\bin\Debug\net6.0\AnglebnHM.pdb
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\AnglebnHM.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\AnglebnHM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\AnglebnHM.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\AnglebnHM.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\AnglebnHM.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\AnglebnHM.dll
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\ref\AnglebnHM.dll
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\AnglebnHM.pdb
+C:\Users\Morning Star\Desktop\MikoD\AnglebnHM\obj\Debug\net6.0\AnglebnHM.genruntimeconfig.cache

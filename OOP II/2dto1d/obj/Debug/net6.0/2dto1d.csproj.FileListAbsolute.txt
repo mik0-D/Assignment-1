@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\bin\Debug\net6.0\2dto1d.exe
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\bin\Debug\net6.0\2dto1d.deps.json
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\bin\Debug\net6.0\2dto1d.runtimeconfig.json
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\bin\Debug\net6.0\2dto1d.dll
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\bin\Debug\net6.0\ref\2dto1d.dll
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\bin\Debug\net6.0\2dto1d.pdb
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\2dto1d.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\2dto1d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\2dto1d.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\2dto1d.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\2dto1d.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\2dto1d.dll
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\ref\2dto1d.dll
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\2dto1d.pdb
+C:\Users\Morning Star\Desktop\MikoD\2dto1d\obj\Debug\net6.0\2dto1d.genruntimeconfig.cache

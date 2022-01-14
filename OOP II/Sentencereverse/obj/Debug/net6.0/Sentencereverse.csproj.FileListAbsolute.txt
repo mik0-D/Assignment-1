@@ -1,0 +1,15 @@
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\bin\Debug\net6.0\Sentencereverse.exe
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\bin\Debug\net6.0\Sentencereverse.deps.json
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\bin\Debug\net6.0\Sentencereverse.runtimeconfig.json
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\bin\Debug\net6.0\Sentencereverse.dll
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\bin\Debug\net6.0\ref\Sentencereverse.dll
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\bin\Debug\net6.0\Sentencereverse.pdb
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\Sentencereverse.csproj.AssemblyReference.cache
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\Sentencereverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\Sentencereverse.AssemblyInfoInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\Sentencereverse.AssemblyInfo.cs
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\Sentencereverse.csproj.CoreCompileInputs.cache
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\Sentencereverse.dll
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\ref\Sentencereverse.dll
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\Sentencereverse.pdb
+C:\Users\Morning Star\Desktop\MikoD\Sentencereverse\obj\Debug\net6.0\Sentencereverse.genruntimeconfig.cache
